@@ -4,3 +4,6 @@
 [submodule "libs/cauldron"]
 	path = libs/cauldron
 	url = ../../GPUOpen-LibrariesAndSDKs/Cauldron.git
+[submodule "libs/vkd3d"]
+	path = libs/vkd3d
+	url = https://github.com/claynathaniel/vkd3d.git
